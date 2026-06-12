@@ -1,4 +1,6 @@
-# CHMaker  https://doi.org/10.5281/zenodo.20670342
+# CHMaker
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20670342.svg)](https://doi.org/10.5281/zenodo.20670342)
 
 CHMaker e um aplicativo em R Shiny para processamento de dados LiDAR em lote. Ele automatiza o fluxo de preparacao de arquivos `.las`, recorte por shapefile e geracao de produtos raster relacionados ao Modelo de Altura do Dossel, incluindo DTM, DSM e CHM.
 
@@ -84,3 +86,9 @@ CHMaker/
 - O shapefile deve estar acompanhado dos seus arquivos auxiliares, como `.dbf`, `.shx` e `.prj`, quando aplicavel.
 - Se o shapefile possuir o campo `Field`, ele sera usado como identificador no nome dos arquivos recortados.
 - O processamento pode ser demorado em bases LiDAR grandes.
+
+## Como Citar
+
+Se utilizar o CHMaker, cite:
+
+Rebeca Diniz Moura. CHMaker: aplicativo Shiny para processamento LiDAR em lote. Zenodo. https://doi.org/10.5281/zenodo.20670342
