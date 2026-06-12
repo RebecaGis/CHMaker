@@ -1,4 +1,4 @@
-# CHMaker
+# CHMaker  https://doi.org/10.5281/zenodo.20670342
 
 CHMaker e um aplicativo em R Shiny para processamento de dados LiDAR em lote. Ele automatiza o fluxo de preparacao de arquivos `.las`, recorte por shapefile e geracao de produtos raster relacionados ao Modelo de Altura do Dossel, incluindo DTM, DSM e CHM.
 
