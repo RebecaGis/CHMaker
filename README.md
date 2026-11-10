@@ -1,5 +1,12 @@
 # CHMaker
 
+<!-- project-badges:start -->
+![Aplicação: R · Shiny](https://img.shields.io/static/v1?label=Aplica%C3%A7%C3%A3o&message=R%20%C2%B7%20Shiny&color=276DC3&style=flat)
+![Processamento: LiDAR · lidR](https://img.shields.io/static/v1?label=Processamento&message=LiDAR%20%C2%B7%20lidR&color=forestgreen&style=flat)
+![Licença: Apache-2.0](https://img.shields.io/static/v1?label=Licen%C3%A7a&message=Apache-2.0&color=blue&style=flat)
+[![Autoria: Rebeca Diniz Moura](https://img.shields.io/static/v1?label=Autoria&message=Rebeca%20Diniz%20Moura&color=8b5cf6&style=flat)](https://github.com/RebecaGis)
+<!-- project-badges:end -->
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20670342.svg)](https://doi.org/10.5281/zenodo.20670342)
 
 CHMaker e um aplicativo em R Shiny para processamento de dados LiDAR em lote. Ele automatiza o fluxo de preparacao de arquivos `.las`, recorte por shapefile e geracao de produtos raster relacionados ao Modelo de Altura do Dossel, incluindo DTM, DSM e CHM.
